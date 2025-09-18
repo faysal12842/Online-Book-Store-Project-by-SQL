@@ -2,11 +2,13 @@ Online Bookstore Database
 
 A full-featured PostgreSQL database project for an online bookstore, designed to showcase SQL, data analysis, and business logic skills. Perfect for your portfolio as a Data Analyst, SQL Developer, or Database Enthusiast.
 
- Project Highlights
+
+ Project Highlights:
 
  Tables: Books, Customers, Orders with proper relationships
 
  Data Import: CSV-based bulk data insertion
+
 
  Analytical Queries:
 
@@ -18,7 +20,8 @@ Calculate stock, total revenue, and top-selling books
 
 Advanced analytics using joins, aggregates, and subqueries
 
- Skills Demonstrated
+
+ Skills Demonstrated:
 
  SQL Table Design & Relationships
 
@@ -27,8 +30,9 @@ Advanced analytics using joins, aggregates, and subqueries
  Advanced Analytical Queries
 
  Business-Oriented Insights
+ 
 
- Tech Stack
+ Tech Stack:
 
 Database: PostgreSQL
 
@@ -38,7 +42,8 @@ Tools: pgAdmin / psql for database management
 
 Data Source: CSV files for bulk data import
 
- Why This Project Matters
+
+ Why This Project Matters:
 
 This project simulates real-world bookstore operations, demonstrating your ability to:
 
